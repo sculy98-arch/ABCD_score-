@@ -26,13 +26,12 @@ export default function Home() {
             textAlign: "center",
             fontSize: "36px",
             fontWeight: "bold",
-            marginBottom: "30px",
           }}
         >
           ABCD 점수 계산기
         </h1>
 
-        <p>정상 배포 성공 🚀</p>
+        <p>정상 작동 🚀</p>
       </div>
     </main>
   );
